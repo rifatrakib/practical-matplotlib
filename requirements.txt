@@ -5,8 +5,11 @@ attrs==22.1.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
+blinker==1.6.2
 cffi==1.15.1
+click==8.1.3
 colorama==0.4.5
+colorspacious==1.1.2
 contourpy==1.0.5
 cycler==0.11.0
 data==0.4
@@ -16,6 +19,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==1.0.0
 fastjsonschema==2.16.2
+Flask==2.3.2
 fonttools==4.37.3
 funcsigs==1.0.2
 future==0.18.2
@@ -24,6 +28,7 @@ ipykernel==6.15.3
 ipython==8.5.0
 ipython-genutils==0.2.0
 ipywidgets==8.0.2
+itsdangerous==2.1.2
 jedi==0.18.1
 Jinja2==3.1.2
 jsonschema==4.16.0
@@ -58,7 +63,17 @@ pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.13.0
 pyparsing==3.0.9
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+PyQt6==6.5.1
+PyQt6-Qt6==6.5.1
+PyQt6-sip==13.5.1
 pyrsistent==0.18.1
+PySide2==5.15.2.1
+PySide6==6.5.1.1
+PySide6-Addons==6.5.1.1
+PySide6-Essentials==6.5.1.1
 python-dateutil==2.8.2
 pywin32==304
 pywinpty==2.0.8
@@ -67,6 +82,8 @@ qtconsole==5.3.2
 QtPy==2.2.0
 scipy==1.9.1
 Send2Trash==1.8.0
+shiboken2==5.15.2.1
+shiboken6==6.5.1.1
 shutilwhich==1.1.0
 six==1.16.0
 soupsieve==2.3.2.post1
@@ -78,5 +95,7 @@ tornado==6.2
 traitlets==5.4.0
 wcwidth==0.2.5
 webencodings==0.5.1
+Werkzeug==2.3.6
 widgetsnbextension==4.0.3
+wxPython==4.2.1
 zipp==3.8.1
